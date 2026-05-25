@@ -1,0 +1,21 @@
+{
+  "name": "RavenHawk Tumblr Publisher",
+  "slug": "ravenhawk-tumblr-publisher",
+  "version": "2.0.0",
+  "build": "rht-menu",
+  "release_title": "RavenHawk Tumblr Publisher v2.0.0",
+  "download_url": "https://github.com/RavenHawkTech/wordpress-tumblr-post-upload/releases/download/ravenhawk-tumblr-publisher-v2.0.0/ravenhawk-tumblr-publisher.zip",
+  "homepage": "https://github.com/RavenHawkTech/wordpress-tumblr-post-upload",
+  "requires": "6.2",
+  "tested": "6.8",
+  "requires_php": "8.0",
+  "last_updated": "2026-05-24",
+  "author": "RavenHawkTech",
+  "author_profile": "https://ravenhawktech.com",
+  "sha256": "8e12ca2cd86291f96e376fd960c8dce8047e88316e5840334c9838be44cdb58f",
+  "sections": {
+    "description": "Basic Tumblr publishing tools for WordPress posts, queue processing, OAuth connection, and post logging. Visit https://ravenhawktech.com for RavenHawkTech.",
+    "installation": "Upload the plugin ZIP in WordPress and activate it. Open RavenHawkTech → Tumblr Publisher to configure Tumblr OAuth and publishing settings.",
+    "changelog": "<h4>2.0.0</h4><ul><li>Renamed and repackaged the plugin as RavenHawk Tumblr Publisher.</li><li>Moved plugin admin navigation under the RavenHawkTech parent menu.</li><li>Added RavenHawkTech admin menu and heading icons.</li><li>Updated standalone GitHub update manifest URL.</li><li>Preserved existing Tumblr OAuth, queue, logging, publishing, retry, and rate-limit behavior.</li></ul>"
+  }
+}
