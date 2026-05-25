@@ -1,0 +1,36 @@
+# OS/editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Local WordPress files
+.env
+.env.*
+wp-config.php
+*.sql
+*.sqlite
+*.db
+*.log
+
+# Certificates and keys
+*.key
+*.pem
+*.p12
+*.pfx
+
+# Archives and backups
+*.tar
+*.tar.gz
+*.tgz
+*.bak
+*.backup
+
+# Dependencies and build cache
+node_modules/
+vendor/
+.cache/
+dist/
+build/
